@@ -8,13 +8,17 @@ O design atraente e intuitivo, juntamente com o uso adequado de HTML e CSS, torn
 e eficiente para estudantes e membros da comunidade acadêmica.
 
 ## Layout web
-![Web 1](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Home.png)
+![Home](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Home.png)
+### Home
 
-![Web 2](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Home_txt.png)
+![Home texto](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Home_txt.png)
+### Texto da home
 
-![Web 2](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Quem_somos.png)
+![Quem somos](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Quem_somos.png)
+### Quem somos
 
-![Web 2](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Contato.png)
+![Contato](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Contato.png)
+### Contato
 
 # Tecnologias utilizadas
 - HTML / CSS
