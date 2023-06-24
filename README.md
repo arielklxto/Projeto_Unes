@@ -1,5 +1,4 @@
 # Projeto Unes
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
 Descrição: O projeto "Plataforma Digital da Faculdade Fictícia UNES" é um repositório do GitHub que visa demonstrar habilidades
