@@ -10,7 +10,11 @@ e eficiente para estudantes e membros da comunidade acadêmica.
 ## Layout web
 ![Web 1](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Home.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Home_txt.png)
+
+![Web 2](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Quem_somos.png)
+
+![Web 2](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Contato.png)
 
 # Tecnologias utilizadas
 - HTML / CSS
