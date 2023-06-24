@@ -13,8 +13,6 @@ e eficiente para estudantes e membros da comunidade acadêmica.
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 # Tecnologias utilizadas
-
-## Front end
 - HTML / CSS
   
 # Autor
