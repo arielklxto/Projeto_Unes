@@ -15,6 +15,6 @@ e eficiente para estudantes e membros da comunidade acadêmica.
 # Tecnologias utilizadas
 - HTML / CSS
   
-# Autor
+# Autora
 Ariel Calixto
 https://www.linkedin.com/in/ariel-calixto/
