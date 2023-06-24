@@ -8,7 +8,7 @@ O design atraente e intuitivo, juntamente com o uso adequado de HTML e CSS, torn
 e eficiente para estudantes e membros da comunidade acadêmica.
 
 ## Layout web
-![Web 1](https://github.com/arielklxto/Projeto1/imagens/Home.png)
+![Web 1](https://github.com/arielklxto/Projeto_Unes/Projeto1/imagens/Home.png)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
